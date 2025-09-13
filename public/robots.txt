@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://radheshyamtt.com
+
+# Sitemaps
+Sitemap: https://radheshyamtt.com/sitemap.xml
